@@ -1,0 +1,11 @@
+millelitretolitre=0.001
+millelitretocentilitre=0.01
+cuptomillelitre=250.00          #metric
+teaspoontomillelitre=3.5516     #UK
+teaspoontotablespoon=1.0/3.0    #UK
+teaspoontocup=1.0/51.0          #UK
+tablespoontomillelitre=14.207   #UK
+tablespoontocup=1.0/18.0        #metric
+litretogallon=1.0/0.219969
+litretopint=1.75975
+shottomillelitre=25             #UK
